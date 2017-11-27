@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-Bröd.
-=======
 Bröd!
->>>>>>> 9e3260b851e80e54b004b273a81ab22960ba4905
 Mjölk
 Snus
 Kaffe
-<<<<<<< HEAD
 Rödspättan
-=======
-Rödspätta
 Tandpetare
->>>>>>> 25832db107f27e0591b3f9530d018daa4198dcbf
